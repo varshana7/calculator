@@ -25,3 +25,4 @@ def calculator():
     except ValueError:
         print("Enter a valid number")
 calculator()
+print("Thank you for using calculator")
